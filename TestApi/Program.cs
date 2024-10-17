@@ -8,7 +8,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
+app.Urls.Add("http://10.0.2.15:5024");
+app.Urls.Add("http://localhost:5024");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

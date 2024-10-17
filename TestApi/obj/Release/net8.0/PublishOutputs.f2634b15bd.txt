@@ -1,0 +1,11 @@
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\TestApi.exe
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\TestApi.dll
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\TestApi.deps.json
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\TestApi.runtimeconfig.json
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\TestApi.pdb
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\TestApi\TestApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
